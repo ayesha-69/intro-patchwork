@@ -5,5 +5,5 @@ title: "This is my funny caption"
 
 Caption here
 
-![femalecodertocat](https://octodex.github.com/images/femalecodertocat.png)
+![hulacat](http://octodex.github.com/images/yaktocat.png)
 {: .center}
